@@ -1,0 +1,5 @@
+C:\SVN\Development\Spikes\FSharpExperiment\CSharpLibrary\bin\Debug\CSharpLibrary.dll
+C:\SVN\Development\Spikes\FSharpExperiment\CSharpLibrary\bin\Debug\CSharpLibrary.pdb
+C:\SVN\Development\Spikes\FSharpExperiment\CSharpLibrary\obj\Debug\CSharpLibrary.csprojResolveAssemblyReference.cache
+C:\SVN\Development\Spikes\FSharpExperiment\CSharpLibrary\obj\Debug\CSharpLibrary.dll
+C:\SVN\Development\Spikes\FSharpExperiment\CSharpLibrary\obj\Debug\CSharpLibrary.pdb

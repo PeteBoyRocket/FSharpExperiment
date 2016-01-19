@@ -1,0 +1,7 @@
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\bin\Debug\FSharpLibrary.XML
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\bin\Debug\FSharpLibrary.dll
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\bin\Debug\FSharpLibrary.pdb
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\bin\Debug\FSharp.Core.dll
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\bin\Debug\FSharp.Core.xml
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\obj\Debug\FSharpLibrary.dll
+C:\SVN\Development\Spikes\FSharpExperiment\FSharpLibrary\obj\Debug\FSharpLibrary.pdb
