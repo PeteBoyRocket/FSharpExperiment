@@ -10,7 +10,7 @@ namespace FSharpExperiment
 		{
 			var values = new List<double>();
 
-			for (int i = 0; i < 100000; i++)
+			for (int i = 0; i < 10000000; i++)
 			{
 				values.Add(i);
 			}
@@ -21,7 +21,7 @@ namespace FSharpExperiment
 			stopwatch.Stop();
 
 			Console.WriteLine("Sum");
-			Console.WriteLine("F# result: {0} time taken {1}", fSharpSum, stopwatch.ElapsedTicks);
+			Console.WriteLine("F# result: {0} time taken {1}", fSharpSum, stopwatch.ElapsedMilliseconds);
 			Console.WriteLine();
 
 			stopwatch.Restart();
@@ -30,7 +30,7 @@ namespace FSharpExperiment
 			stopwatch.Stop();
 
 			Console.WriteLine("Sum");
-			Console.WriteLine("C# result: {0} time taken {1}", cSharpSum, stopwatch.ElapsedTicks);
+			Console.WriteLine("C# result: {0} time taken {1}", cSharpSum, stopwatch.ElapsedMilliseconds);
 			Console.WriteLine();
 
 
